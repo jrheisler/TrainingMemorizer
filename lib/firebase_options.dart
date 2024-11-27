@@ -53,9 +53,9 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCD5ZSiXRBrw31OVMixN5GhdtemZY1zkRk',
-    appId: '1:997373258190:web:6058b3f6dd455c6a11239f',
-    messagingSenderId: '997373258190',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'trainingmemorizer-9cedf',
     authDomain: 'trainingmemorizer-9cedf.firebaseapp.com',
     storageBucket: 'trainingmemorizer-9cedf.firebasestorage.app',
